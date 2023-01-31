@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Decentralized Social Media",
   "author": "Dapp University",
-  "homepage": "http://DevDApps.github.io/TokenArt",
+  "homepage": "https://main.d36e7r4q91msle.amplifyapp.com",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
     "babel-polyfill": "6.26.0",
